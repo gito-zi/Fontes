@@ -1,0 +1,47 @@
+/* AzurioTest – Black */
+@font-face {
+  font-family: "AzurioTest";
+  src: url("AzurioTest-Black-BF6646d3b040df8.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* AzurioTest – Bold */
+@font-face {
+  font-family: "AzurioTest";
+  src: url("AzurioTest-Bold-BF6646d3b09f4ba.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* AzurioTest – Semibold */
+@font-face {
+  font-family: "AzurioTest";
+  src: url("AzurioTest-Semibold-BF6646d3b11c1b1.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* AzurioTest – Medium */
+@font-face {
+  font-family: "AzurioTest";
+  src: url("AzurioTest-Medium-BF6646d3b107bb1.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* AzurioTest – Regular */
+@font-face {
+  font-family: "AzurioTest";
+  src: url("AzurioTest-Regular-BF6646d3b10317b.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* AzurioTest – Light */
+@font-face {
+  font-family: "AzurioTest";
+  src: url("AzurioTest-Light-BF6646d3b126bc5.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
